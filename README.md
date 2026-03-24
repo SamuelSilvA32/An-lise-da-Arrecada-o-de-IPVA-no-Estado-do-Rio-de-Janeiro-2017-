@@ -76,7 +76,7 @@ Mesmo entre diferentes municípios, o comportamento mensal da arrecadação segu
 
 ![Arrecadação mensal](graficos/grafico01.png)
 
-### Municípios e regiões com maior arrecadação
+### Municípios e regiões com maior arrecadação 
 
 ![Municípios e regiões](graficos/grafico02.png)
 
