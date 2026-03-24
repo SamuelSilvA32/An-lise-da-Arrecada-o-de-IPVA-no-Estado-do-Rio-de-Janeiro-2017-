@@ -101,7 +101,7 @@ Mesmo entre diferentes municípios, o comportamento mensal da arrecadação segu
 
 O projeto inclui um relatório analítico com os principais resultados da análise.
 
-📎 **[Acessar relatório completo](relatorio/Relatorio_IPVA_RJ_2017.pdf)**
+📎 **[Acessar relatório completo](analise_arecadação/relatorio/Relatorio_IPVA_RJ_2017.pdf)**
 
 ---
 
