@@ -74,11 +74,11 @@ Mesmo entre diferentes municípios, o comportamento mensal da arrecadação segu
 
 ### Arrecadação total de IPVA por mês
 
-![Arrecadação mensal](graficos/grafico01.png)
+![Arrecadação mensal](analise_arecadação/graficos/grafico01.png)
 
 ### Municípios e regiões com maior arrecadação
 
-![Municípios e regiões](graficos/grafico02.png)
+![Municípios e regiões](analise_arecadação/graficos/grafico02.png)
 
 ### Distribuição mensal da arrecadação entre municípios
 
