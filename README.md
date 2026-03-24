@@ -82,7 +82,7 @@ Mesmo entre diferentes municípios, o comportamento mensal da arrecadação segu
 
 ### Distribuição mensal da arrecadação entre municípios
 
-![Heatmap](graficos/grafico03.png)
+![Heatmap](analise_arecadação/graficos/grafico03.png)
 
 ---
 
