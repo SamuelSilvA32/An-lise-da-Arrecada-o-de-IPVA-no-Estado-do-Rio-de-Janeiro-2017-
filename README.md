@@ -21,7 +21,7 @@ O projeto percorre todas as etapas de um fluxo de trabalho típico de análise d
 ```
 analise_arrecadacao_ipva_rj/
 
-dados/
+data/
     ipva_2017_raw.csv
 
 notebooks/
