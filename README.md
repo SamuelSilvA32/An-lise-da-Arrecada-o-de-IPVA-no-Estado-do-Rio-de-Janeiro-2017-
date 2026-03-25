@@ -22,19 +22,23 @@ O projeto percorre todas as etapas de um fluxo de trabalho típico de análise d
 analise_arrecadacao_ipva_rj/
 
 data/
-    ipva_2017_raw.csv
+    /dados brutos
+        00_03_arrecadacao_por_municipio_e_regiao_ipva-2017.csv
+    /dataset_final
+        ipva_rj_2017_tratado.csv
+
+graficos/
+    grafico01.png
+    grafico02.png
+    grafico03.png
 
 notebooks/
     01_data_cleaning_ipva_rj.ipynb
     02_analise_exploratoria_ipva_rj.ipynb
 
-graficos/
-    arrecadacao_mensal.png
-    municipios_regioes.png
-    heatmap.png
-
 relatorio/
-    Relatorio_IPVA_RJ_2017.pdf
+    Relatorio_IPVA_RJ.pdf
+    relatorio.py
 
 README.md
 ```
