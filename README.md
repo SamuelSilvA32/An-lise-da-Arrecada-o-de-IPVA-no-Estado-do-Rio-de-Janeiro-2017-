@@ -19,7 +19,7 @@ O projeto percorre todas as etapas de um fluxo de trabalho típico de análise d
 ## 📁 Estrutura do Projeto
 
 ```
-analise_arrecadacao_ipva_rj/
+analise_arrecadacao
 
 data/
     /dados brutos
