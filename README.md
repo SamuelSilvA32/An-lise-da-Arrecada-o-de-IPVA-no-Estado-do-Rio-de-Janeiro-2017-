@@ -25,7 +25,7 @@ data/
     ipva_2017_raw.csv
 
 notebooks/
-    01_tratamento_dados.ipynb
+    01_data_cleaning_ipva_rj.ipynb
     02_analise_exploratoria_ipva_rj.ipynb
 
 graficos/
